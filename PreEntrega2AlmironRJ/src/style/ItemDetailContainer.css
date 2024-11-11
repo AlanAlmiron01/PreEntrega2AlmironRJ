@@ -1,0 +1,32 @@
+.item-detail {
+  padding: 20px;
+}
+
+.item-detail-content {
+  max-width: 600px;
+  margin: auto;
+}
+
+.item-detail-image {
+  width: 100%;
+  max-width: 400px;
+  display: block;
+  margin: auto;
+}
+
+.item-detail-price {
+  font-size: 1.5rem;
+  color: green;
+}
+
+.item-detail-button {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.item-detail-button:hover {
+  background-color: #555;
+}

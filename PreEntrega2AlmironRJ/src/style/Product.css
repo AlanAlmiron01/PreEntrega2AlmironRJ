@@ -1,0 +1,40 @@
+.product-card {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: white;
+  text-align: center;
+}
+
+.product-image {
+  width: 100%;
+  height: auto;
+}
+
+.product-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.product-description {
+  font-size: 1rem;
+  color: #777;
+}
+
+.product-price {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.product-button {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.product-button:hover {
+  background-color: #555;
+}
